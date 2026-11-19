@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "theme": "Code de la route",
+        "question": "En ville, le feu passe au rouge : que dois-je faire ?",
+        "options": [
+            "Je m'arrête.",
+            "Je passe.",
+            "J'accélère.",
+            "Je mets de la musique."
+        ],
+        "reponse": "Je m'arrête."
+    },
+    {
+        "id": 2,
+        "theme": "Code de la route",
+        "question": "Ce panneau limite la vitesse à 90 km/h : que faire ?",
+        "options": [
+            "Je peux dépasser la limite.",
+            "Je respecte la limite autorisée."
+        ],
+        "reponse": "Je respecte la limite autorisée."
+    },
+    {
+        "id": 3,
+        "theme": "Code de la route",
+        "question": "Puis-je dépasser un deux-roues sur l'autoroute ?",
+        "options": [
+            "Oui.",
+            "Non."
+        ],
+        "reponse": "Oui."
+    },
+    {
+        "id": 4,
+        "theme": "Code de la route",
+        "question": "En boîte automatique, faut-il freiner pour quitter P ?",
+        "options": [
+            "Oui.",
+            "Non."
+        ],
+        "reponse": "Oui."
+    },
+    {
+        "id": 5,
+        "theme": "Code de la route",
+        "question": "L'assurance automobile est-elle obligatoire ?",
+        "options": [
+            "Oui.",
+            "Non."
+        ],
+        "reponse": "Oui."
+    },
+    {
+        "id": 6,
+        "theme": "Code de la route",
+        "question": "Quelle est la vitesse maximale habituelle en ville ?",
+        "options": [
+            "30 km/h.",
+            "50 km/h.",
+            "90 km/h.",
+            "10 km/h."
+        ],
+        "reponse": "50 km/h."
+    },
+    {
+        "id": 7,
+        "theme": "Code de la route",
+        "question": "À quelle distance stationner avant un passage piéton ?",
+        "options": [
+            "5 mètres.",
+            "10 mètres.",
+            "3 mètres."
+        ],
+        "reponse": "5 mètres."
+    },
+    {
+        "id": 8,
+        "theme": "Code de la route",
+        "question": "Que signifie un panneau de limitation de vitesse ?",
+        "options": [
+            "Une règle à respecter.",
+            "Une suggestion.",
+            "Une indication d'intention."
+        ],
+        "reponse": "Une règle à respecter."
+    },
+    {
+        "id": 9,
+        "theme": "Code de la route",
+        "question": "Quel est l'âge minimum du permis B en France ?",
+        "options": [
+            "18 ans.",
+            "17 ans.",
+            "21 ans."
+        ],
+        "reponse": "17 ans."
+    },
+    {
+        "id": 10,
+        "theme": "Code de la route",
+        "question": "Que signifie une ligne continue sur la route ?",
+        "options": [
+            "Le dépassement est autorisé.",
+            "Le franchissement est interdit, sauf exceptions.",
+            "Une zone de stationnement."
+        ],
+        "reponse": "Le franchissement est interdit, sauf exceptions."
+    },
+    {
+        "id": 11,
+        "theme": "Solo Leveling",
+        "question": "Qui est le héros principal de Solo Leveling ?",
+        "options": [
+            "Sung Jinwoo",
+            "Yoo Jinho",
+            "Choi Jong-In",
+            "Baek Yoonho"
+        ],
+        "reponse": "Sung Jinwoo"
+    },
+    {
+        "id": 12,
+        "theme": "Solo Leveling",
+        "question": "Quel est le rang initial de Sung Jinwoo ?",
+        "options": [
+            "Rang S",
+            "Rang A",
+            "Rang E",
+            "Rang C"
+        ],
+        "reponse": "Rang E"
+    },
+    {
+        "id": 13,
+        "theme": "Solo Leveling",
+        "question": "Comment s'appellent les passages vers les donjons ?",
+        "options": [
+            "Les portails",
+            "Les sanctuaires",
+            "Les labyrinthes",
+            "Les invocations"
+        ],
+        "reponse": "Les portails"
+    },
+    {
+        "id": 14,
+        "theme": "Solo Leveling",
+        "question": "Quel pouvoir le Système donne-t-il à Jinwoo ?",
+        "options": [
+            "Se téléporter partout",
+            "Augmenter son niveau",
+            "Arrêter le temps",
+            "Lire dans les pensées"
+        ],
+        "reponse": "Augmenter son niveau"
+    },
+    {
+        "id": 15,
+        "theme": "Solo Leveling",
+        "question": "Qu'est-ce qu'un double donjon ?",
+        "options": [
+            "Un donjon caché dans un autre",
+            "Un donjon accessible la nuit",
+            "Un donjon réservé au rang S",
+            "Un donjon sans monstres"
+        ],
+        "reponse": "Un donjon caché dans un autre"
+    },
+    {
+        "id": 16,
+        "theme": "Solo Leveling",
+        "question": "Quelle armée Jinwoo apprend-il à commander ?",
+        "options": [
+            "Une armée de dragons",
+            "Une armée de robots",
+            "Une armée de soldats de l'ombre",
+            "Une armée de chasseurs de rang S"
+        ],
+        "reponse": "Une armée de soldats de l'ombre"
+    },
+    {
+        "id": 17,
+        "theme": "Solo Leveling",
+        "question": "Quel sens particulier possède Cha Hae-In ?",
+        "options": [
+            "Elle voit le futur",
+            "Elle sent la mana grâce à son odorat",
+            "Elle lit les souvenirs",
+            "Elle entend les pensées"
+        ],
+        "reponse": "Elle sent la mana grâce à son odorat"
+    },
+    {
+        "id": 18,
+        "theme": "Solo Leveling",
+        "question": "Qui est Yoo Jinho pour Sung Jinwoo ?",
+        "options": [
+            "Son frère",
+            "Son rival principal",
+            "Son allié et ami",
+            "Son professeur"
+        ],
+        "reponse": "Son allié et ami"
+    },
+    {
+        "id": 19,
+        "theme": "Solo Leveling",
+        "question": "Quel est le rôle d'Igris dans l'armée de Jinwoo ?",
+        "options": [
+            "Un chevalier de l'ombre",
+            "Un mage humain",
+            "Un chasseur de rang E",
+            "Un marchand d'armes"
+        ],
+        "reponse": "Un chevalier de l'ombre"
+    },
+    {
+        "id": 20,
+        "theme": "Solo Leveling",
+        "question": "Quelle créature était Beru avant de devenir une ombre ?",
+        "options": [
+            "Un dragon ancien",
+            "Le Roi-Fourmi",
+            "Un loup géant",
+            "Un chevalier humain"
+        ],
+        "reponse": "Le Roi-Fourmi"
+    },
+    {
+        "id": 21,
+        "theme": "Solo Leveling",
+        "question": "Quelle arme Jinwoo utilise-t-il souvent au combat ?",
+        "options": [
+            "Un arc",
+            "Un marteau",
+            "Des dagues",
+            "Une lance"
+        ],
+        "reponse": "Des dagues"
+    },
+    {
+        "id": 22,
+        "theme": "Solo Leveling",
+        "question": "Comment s'appelle la guilde fondée par Jinwoo ?",
+        "options": [
+            "La guilde des Chasseurs",
+            "La guilde Ahjin",
+            "La guilde du Tigre blanc",
+            "La guilde des Faucheurs"
+        ],
+        "reponse": "La guilde Ahjin"
+    }
+]
